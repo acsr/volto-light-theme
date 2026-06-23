@@ -49,6 +49,7 @@ how-to-guides/contributing
 how-to-guides/develop-add-ons
 how-to-guides/release
 how-to-guides/upgrade-guide
+how-to-guides/project-storybook-for-custom-theme.md
 ```
 
 ```{toctree}
